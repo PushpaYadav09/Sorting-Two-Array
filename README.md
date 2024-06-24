@@ -1,4 +1,4 @@
-# Sorting-Two-Array
+ # Sorting-Two-Array
 Overview
 
 The provided Java program allows the user to input elements into two separate arrays, sorts these arrays in different orders, and retrieves specific elements from each sorted array.
@@ -53,7 +53,7 @@ Prints the sorted elements of array B.
    
 Prints the third smallest element if the array has at least three elements.
 
-2)Second Largest Element in Array B:
+2) Second Largest Element in Array B:
 
 Prints the second largest element if the array has at least two elements.
 
